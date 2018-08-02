@@ -1,6 +1,8 @@
 Hands-On Full-Stack Web Development with Angular 6 and Laravel 5 (ISBN 139781788833912)
 ---
 
+![Book Cover](https://github.com/newaeonweb/Hands-On-Full-Stack-Web-Development-with-Angular-6-and-Laravel-5/blob/master/B09877.png)
+
 **What You Will Learn**
 
 * Explore the core features of Angular 6 to create sophisticated user interfaces
