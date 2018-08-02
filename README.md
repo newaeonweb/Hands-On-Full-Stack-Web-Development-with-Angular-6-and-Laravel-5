@@ -182,4 +182,4 @@ In this chapter we learned how to install, customize and extend Bootstrap CSS fr
   * <a href="https://www.packtpub.com/web-development/learning-single-page-web-application-development" target="_blank">Learning Single-page Web Application Development</a>
   * <a href="https://www.packtpub.com/web-development/angularjs-directives-cookbook" target="_blank">AngularJS Directives Cookbook</a>
   * <a href="https://www.packtpub.com/web-development/nodejs-6x-blueprints" target="_blank">Node.JS 6.x Blueprints</a>
-  * <a href="hhttps://www.packtpub.com/web-development/nodejs-projects" target="_blank">Node.JS Projects</a>
+  * <a href="https://www.packtpub.com/web-development/nodejs-projects" target="_blank">Node.JS Projects</a>
